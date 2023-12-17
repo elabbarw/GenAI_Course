@@ -1,0 +1,17 @@
+streamlit
+openai
+python-dotenv
+audio-recorder-streamlit
+gTTS
+gptrim
+duckduckgo_search
+qdrant-client
+jupyter
+ipykernel
+numpy
+pandas
+matplotlib
+tiktoken
+langchain
+opencv-python
+elevenlabs

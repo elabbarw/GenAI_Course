@@ -1,0 +1,8 @@
+.env
+.DS*
+__pycache__
+./*.mp3
+.venv
+*.json
+.vscode
+*.code-workspace
